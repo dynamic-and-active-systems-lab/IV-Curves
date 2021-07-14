@@ -1,6 +1,8 @@
 # IV-Curves
 All IV curves from laboratory characterization of silicon solar cells.
 
+The IV MATS folder contains all IV Curve .mat files separated by water type.
+
 The water types correspond to Jerlov's water type classification (N. G. Jerlov,Marine optics.    Elsevier, 1976). 
 
 Download both the IVcurve.m file and respective IV_Curve water type .mat file
