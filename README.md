@@ -14,8 +14,13 @@ The IVcurve.m file contains the IVcurve class and details explaining each variab
 EXAMPLE CODE TO GENERATE A SINGLE IV CURVE
 
 load('Type_I.mat')
+
 plot(Type_I(1,1).V,Type_I(1,1).I)
+
 xlim([0 7])
+
 ylim([0 0.001])
+
 xlabel('Voltage (V)')
+
 ylabel('Current (A)')
